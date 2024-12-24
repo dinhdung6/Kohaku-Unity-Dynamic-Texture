@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dd21ddf32270f804db0a591730c3433b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Diffuse: {fileID: 2800000, guid: 4fc995a569946f149972a9e2c64e1180, type: 3}
+  - img: {instanceID: 0}
+  - webCam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
